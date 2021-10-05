@@ -19,7 +19,7 @@
             "thumbnail": "images/hero-section-a.jpg",
             "data": {
                 "variant": "variant-b",
-                "text": "Hello",
+                "title":"My hero section",
                 "badge": "",
                 "actions": [{
                     "label": "Get started",
