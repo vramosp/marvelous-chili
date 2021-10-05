@@ -53,7 +53,8 @@
                 },
                 {
                     "label": "Learn more",
-                    "url": "/"                }
+                    "url": "/"
+                            }                }
                 ]
             }
         }
