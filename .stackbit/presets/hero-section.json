@@ -50,7 +50,7 @@
                 "actions": [{
                     "label": "Get started",
                     "url": "/"
-                }
+                },
                 {
                     "label": "Learn more",
                     "url": "/",
