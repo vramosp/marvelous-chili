@@ -70,35 +70,6 @@ sections:
       url: /images/hero.png
       altText: Image alt text
       caption: Image caption
-  - elementId: ''
-    colors: colors-f
-    width: wide
-    height: tall
-    contentWidth: large
-    contentAlignHoriz: center
-    contentAlignVert: middle
-    topGap: none
-    bottomGap: none
-    textAlign: left
-    variant: variant-b
-    badge: {}
-    title: This Is A Big Hero Headline
-    subtitle: This Is Subtitle
-    text: Hello
-    actions:
-      - label: Get started
-        url: /
-    feature:
-      type: ImageBlock
-      url: /images/hero.png
-      altText: Hero section image
-    backgroundImage:
-      elementId: ''
-      altText: lorem-ipsum
-      caption: lorem-ipsum
-      opacity: 100
-      type: ImageBlock
-    type: HeroSection
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
