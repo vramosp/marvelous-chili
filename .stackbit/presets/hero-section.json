@@ -32,7 +32,7 @@
             "thumbnail": "images/hero-section-d.jpg",
             "data": {
                 "variant": "variant-c",
-                "text": "Hello",
+                "title":"My hero section",
                 "badge": "",
                 "actions": [{
                     "label": "Get started",
