@@ -1,0 +1,56 @@
+{
+    "model": "HeroSection",
+    "presets": [{
+            "label": "My Hero Section 1",
+            "thumbnail": "images/hero-section-b.jpg",
+            "data": {
+                "variant": "variant-a",
+                "badge": "",
+                "colors": "colors-d",
+                "actions": [{
+                    "label": "Get started",
+                    "url": "/"
+                }]
+            }
+        },
+        {
+            "label": "My Hero Section 2",
+            "thumbnail": "images/hero-section-a.jpg",
+            "data": {
+                "variant": "variant-b",
+                "text": "Hello",
+                "badge": "",
+                "actions": [{
+                    "label": "Get started",
+                    "url": "/"
+                }]
+            }
+        },
+        {
+            "label": "My Hero Section 3",
+            "thumbnail": "images/hero-section-d.jpg",
+            "data": {
+                "variant": "variant-c",
+                "text": "Hello",
+                "badge": "",
+                "actions": [{
+                    "label": "Get started",
+                    "url": "h/"
+                }]
+            }
+        },
+        {
+            "label": "My Hero Section 4",
+            "thumbnail": "images/hero-section-d.jpg",
+            "data": {
+                "variant": "variant-d",
+                "text": "Hello",
+                "badge": "",
+                "actions": [{
+                    "label": "Get started",
+                    "url": "/"
+                }]
+            }
+        }
+    ]
+}
