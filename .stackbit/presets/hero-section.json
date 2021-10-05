@@ -5,6 +5,7 @@
             "thumbnail": "images/hero-section-b.jpg",
             "data": {
                 "variant": "variant-a",
+                "title"
                 "badge": "",
                 "colors": "colors-d",
                 "actions": [{
