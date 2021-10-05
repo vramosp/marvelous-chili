@@ -5,7 +5,7 @@
             "thumbnail": "images/hero-section-b.jpg",
             "data": {
                 "variant": "variant-a",
-                "title"
+                "title":"My hero section",
                 "badge": "",
                 "colors": "colors-d",
                 "actions": [{
