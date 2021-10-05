@@ -45,7 +45,7 @@
             "thumbnail": "images/hero-section-d.jpg",
             "data": {
                 "variant": "variant-d",
-                "text": "Hello",
+                "title":"My hero section",
                 "badge": "",
                 "actions": [{
                     "label": "Get started",
