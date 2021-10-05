@@ -53,9 +53,7 @@
                 },
                 {
                     "label": "Learn more",
-                    "url": "/",
-                    "style":"secondary"
-                }
+                    "url": "/"                }
                 ]
             }
         }
